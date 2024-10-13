@@ -6,7 +6,7 @@ img = Image.open("Bliss.png")
 pixels = img.load()
 
 alphabet = string.ascii_lowercase + string.digits + ' ' + '\n'
-input_str = """fuck that man ive never used telegram and i dont care to learn"""
+input_str = """example text"""
 
 #0,1,2, corresponds to what r,g,b will be changed
 channel = 0
